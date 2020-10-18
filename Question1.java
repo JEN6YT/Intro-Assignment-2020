@@ -8,7 +8,7 @@ package ApplicationQ;
 
 import java.util.Scanner;
 
-public class ApplicationQ1 {
+public class Question1 {
 
 	public static void main(String[] args) {
 		
