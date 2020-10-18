@@ -1,3 +1,5 @@
-public static void main(String[] args) {
-  System.out.println("Please check the Application and Thinking branch for my code. Thank you!");
+public class main{  
+  public static void main(String[] args) {
+    System.out.println("Please check the Application and Thinking branch for my code. Thank you!");
+  }
 }
