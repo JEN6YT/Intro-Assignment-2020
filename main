@@ -1,5 +1,9 @@
-public class main{  
-  public static void main(String[] args) {
+public class main {
+
+	public static void main(String[] args) {
+			
 		System.out.println("please check out my answer in the Application and Thinking branch! Thank you!");
-  }
+
+	}
+
 }
