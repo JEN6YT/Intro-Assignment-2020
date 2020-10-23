@@ -11,9 +11,6 @@ public class Question3 {
 	public static void main(String[] args) {
 		
 		
-		// declaration of an array
-		int[] matrix = new int[5];
-		
 		// declaration of 2 numbers
 		int n = 9;
 		int m = 9;
